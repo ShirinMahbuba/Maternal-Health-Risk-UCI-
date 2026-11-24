@@ -60,5 +60,5 @@ pip install -r requirements.txt
 jupyter notebook Maternal_Health_Risk_Prediction.ipynb
 ```
 
-## Limitations (state these in any write-up)
+## Limitations 
 Small single-source data set, no external validation, labels come from the data collectors rather than independent clinical outcomes, and SHAP describes the model, not causes.
