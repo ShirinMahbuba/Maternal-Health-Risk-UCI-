@@ -6,4 +6,5 @@ xgboost
 shap
 ucimlrepo
 matplotlib
+torch
 jupyter
